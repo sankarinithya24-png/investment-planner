@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Investment Planner</title>
+</head>
+
+<body>
+
+<h1>Investment Planner</h1>
+
+<button onclick="showMessage()">Click Me</button>
+
+<script>
+function showMessage() {
+    alert("Working!");
+}
+</script>
+
+</body>
+</html>
